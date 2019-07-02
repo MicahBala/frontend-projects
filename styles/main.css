@@ -26,6 +26,10 @@ h1 {
   font-weight: 600;
 }
 
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
 .main-container {
   max-width: 1440px;
   margin: 0 auto;
@@ -174,12 +178,12 @@ footer {
 }
 
 footer a {
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 
 .footer-info {
   display: flex;
-  /* justify-content: space-evenly; */
 }
 
 .contacts {
@@ -214,7 +218,6 @@ footer a {
 .social-icons ul {
   padding-top: 3rem;
   display: flex;
-  /* justify-content: space-between; */
 }
 
 .social-icons ul li {
