@@ -4,7 +4,7 @@ A Collection of Frontend projects challenges to improve skills in a real-life wo
 
 ## Visit the Page
 
-This is a landing page built with HTML and CSS, visit the page at
+This is a landing page built with HTML and CSS, visit the page at [Huddle Page](https://micahbala.github.io/frontend-projects/huddle_landing_page/)
 
 ## Icons
 
